@@ -1,2 +1,3 @@
 ## so ignore any .log file
 *.log
+*.orig
